@@ -1,1 +1,1 @@
-# SP-weather-forecast-with-ml
+Weather forecasting of the city of São Paulo with machine learning. The data used is from INMET data bank from two stations in the city of São Paulo. This project follows, in part, the "DataQuest Project - Predict the Weather with Machine Learning".
